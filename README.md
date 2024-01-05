@@ -38,7 +38,7 @@
 | [12. Функция. Сапер (поле)](./contest_02/12/main.go) | ![](./img/go.png) |
 
 
-|[Контест 3](https://contest.yandex.ru/contest/52676/problems/) |  |
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
 | [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Валидатор скобочной последовательности](./contest_03/02/main.cpp) |  ![](./img/cpp.png) |
@@ -47,11 +47,37 @@
 | [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
 | [8. Уникальное число](./contest_03/08/main.go) |  ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.go) |  ![](./img/go.png) |
-| ============ | ============ |
 
-|[Контест 4](https://contest.yandex.ru/contest/52676/problems/) |  |
+
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
 | [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
-| [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
-| ============ | ============ |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) | ![](./img/cpp.png) |
+
+
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/02/main.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/06/main.go) | ![](./img/go.png) |
+
+
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
+
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1.Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
+| [2.Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
+| [3.1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
+| [5.IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
+| [10.Какой тип](./contest_08/10/main.cpp) | ![](./img/go.png) |
+
 
